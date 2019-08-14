@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Ptech_Multilayer",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Ajax based Multi Select Layer Navigation",
+    "authors": [
+    {
+        "name": "Brijesh Kumar",
+        "email": "brijeshsir08@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
